@@ -23,7 +23,6 @@
         </repository>
     </repositories>
 
-
     <dependencies>
         <dependency>
             <groupId>edu.princeton.cs</groupId>
@@ -32,6 +31,7 @@
         </dependency>
     </dependencies>
 
+    <!--
     <build>
         <plugins>
             <plugin>
@@ -45,5 +45,6 @@
             </plugin>
         </plugins>
     </build>
+    -->
 
 </project>
