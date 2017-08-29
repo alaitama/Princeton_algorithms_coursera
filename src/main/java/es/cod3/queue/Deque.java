@@ -1,3 +1,5 @@
+package es.cod3.queue;
+
 import edu.princeton.cs.algs4.StdOut;
 
 import java.util.Iterator;
